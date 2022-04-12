@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Furffico/Furffico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Furffico**, an undergraduate student from China, major in Artificial Intelligence.
 
-Here are some ideas to get you started:
+***Furffico** is a nickname given to me by my friends, pronounced as **Fur-fee-ko**.*
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
