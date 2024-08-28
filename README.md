@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-This is **Furffico**, an undergraduate student from China, major in Artificial Intelligence.
-
-***Furffico** is a nickname given to me by my friends, pronounced as **Fur-fee-ko**.*
+This is **Furffico**, a master's student from China, major in Artificial Intelligence.
 
 <!--
 
